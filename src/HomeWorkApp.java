@@ -32,7 +32,7 @@ public class HomeWorkApp {
     }
     public  static  void compareNumbers() {
         int a=2;
-        int b=2;
+        int b=2; // Комментарий для теста
         boolean d= (a>=b);
         if (d) {
             System.out.println("a>=b");
