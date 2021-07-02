@@ -2,7 +2,6 @@ public class TwoProject {
     public static void main (String[] args){
 boolean hig=twoNumbers();
 System.out.println(hig);
-
 pozNegativ();
 
 boolean hig2=Pozitiv();
